@@ -1,0 +1,23 @@
+C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Games Project\Project 1\FirstProject\Source\FirstProject/Main.h
+C:\Games Project\Project 1\FirstProject\Source\FirstProject\WeaponContainer.h
+C:\Games Project\Project 1\FirstProject\Source\FirstProject\Weapon.h
+C:\Games Project\Project 1\FirstProject\Source\FirstProject\Item.h
+C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Weapon.generated.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+E:\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+E:\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\WeaponContainer.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Main.generated.h
