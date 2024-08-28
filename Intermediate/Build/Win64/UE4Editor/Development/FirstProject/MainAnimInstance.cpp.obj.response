@@ -262,11 +262,8 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\FirstProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\FirstProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\FirstProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 "C:\Games Project\Project 1\FirstProject\Source\FirstProject\MainAnimInstance.cpp"
-/FI"C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h"
+/FI"C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.h"
 /Fo"C:\Games Project\Project 1\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\MainAnimInstance.cpp.obj"
 /TP
 /GR-
